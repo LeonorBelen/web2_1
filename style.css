@@ -1,0 +1,10 @@
+*{
+    margin: 10px;
+}
+body{
+    background-color: rgb(102, 190, 99);
+}
+h1{
+    color: red;
+    align-items: center;
+}
